@@ -38,29 +38,4 @@ Feel free to reach out or connect on these platforms:
 
 ---
 
-### 🏆 *Achievements*
-[![trophy](https://github-profile-trophy.vercel.app/?username=sd338&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 *GitHub Stats*
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sd338&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com?user=sd338&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
-### 🌟 *Top Languages*
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd338&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🎨 *Dynamic Badge*
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sd338/contributions?format=svg&private=false)
-
----
-
 Thanks for visiting my profile! ✨ Let's innovate and create together!
